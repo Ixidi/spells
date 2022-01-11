@@ -1,0 +1,4 @@
+name: Spells
+version: 1.0
+main: xyz.ixidi.spells.TestPlugin
+api-version: 1.18
